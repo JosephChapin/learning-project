@@ -12,12 +12,12 @@
     <!-- Class is the styling given to you by bootstrap. -->
     <table class="table table-striped">
       <!-- table header-->
-      <th>
+      <tr>
 	<!--table data -->
-	<td>This </td>
-	<td>That </td>
-	<td>Other </td>
-      </th>
+	<th>This </th>
+	<th>That </th>
+	<th>Other </th>
+      </tr>
        <!-- table rows -->
       <tr>
 	<td>Joey </td>
