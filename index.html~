@@ -1,0 +1,36 @@
+<html>
+  <!-- control x s to save. control z to exit emacs after saving. emacs html to get into here -->
+  <head>
+    <!--Put scripts and shit in head. Stuff in head does not get output onto the browser -->
+    <!-- Put both link and script in to include bootstrap. Link is for css, script is for javascript. -->
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"> </link>
+    <!--script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"> </script -->
+  </head>
+  <body>
+    <div class="container">
+    <!--Put content in body. This is what gets displayed -->
+    <!-- Class is the styling given to you by bootstrap. -->
+    <table class="table table-striped">
+      <!-- table header-->
+      <th>
+	<!--table data -->
+	<td>This </td>
+	<td>That </td>
+	<td>Other </td>
+      </th>
+       <!-- table rows -->
+      <tr>
+	<td>Joey </td>
+        <td>is </td>
+        <td>a </td>
+      </tr>
+      <tr>
+	<td>big </td>
+        <td>fat </td>
+        <td>scrub </td>
+      </tr>
+    </table>
+    </div>
+  </body>
+</html>
+
